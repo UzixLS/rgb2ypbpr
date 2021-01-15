@@ -8,6 +8,13 @@
 pcb/**/*.xml
 pcb/**/out/
 
+## LTSpice
+spice/work
+spice/*.txt
+spice/*.raw
+spice/*.log
+spice/*.vcd
+
 ## Etc.
 *.bak
 *.*~
