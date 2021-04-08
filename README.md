@@ -1,6 +1,6 @@
 ## RGB to YPbPr simple converter
 
-[![photo](images/photo-small.rev.A.jpg)](images/photo.rev.A.jpg)
+[![photo](images/photo-small.rev.A.jpg)](images/photo.rev.A.jpg?raw=true)
 
 Based on "Universal RGB-to-YPbPr/Component Encoder" by Steven Hanley (thesteve)
 
